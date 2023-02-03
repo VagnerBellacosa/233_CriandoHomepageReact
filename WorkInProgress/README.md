@@ -34,7 +34,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Criando a Homepage do Dio Bank com React](https://web.dio.me/lab/criando-a-homepage-do-dio-bank-com-react/learning/225e4e1b-c77a-4cb0-a5d9-db7a3f756705)[Entendendo o Desafio](https://web.dio.me/lab/criando-a-homepage-do-dio-bank-com-react/learning/fc18c2d8-8e8f-4b6a-a41e-8ef05673780a)
+- [Criando a Homepage do Dio Bank com React](https://web.dio.me/lab/criando-a-homepage-do-dio-bank-com-react/learning/225e4e1b-c77a-4cb0-a5d9-db7a3f756705)
+- [Entendendo o Desafio](https://web.dio.me/lab/criando-a-homepage-do-dio-bank-com-react/learning/fc18c2d8-8e8f-4b6a-a41e-8ef05673780a)
 
 
 
